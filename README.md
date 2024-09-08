@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/MLopezCastro/Master-Global-Super-Store/blob/main/logo.png?raw=true" alt="Master Global Super Store Logo" width="400">
+ https://github.com/MLopezCastro/Fast-Food_SQLDatabase/blob/main/logo.png
 </div>
 
 
