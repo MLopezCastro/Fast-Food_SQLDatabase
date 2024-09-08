@@ -1,5 +1,6 @@
 <div align="center">
  <h1>Fast Food SQL Database</h1>
+ <img src="https://github.com/MLopezCastro/Fast-Food_SQLDatabase/blob/main/logo.png?raw=true" alt="Fast Food Logo" width="200">
 </div>
 
 
