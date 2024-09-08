@@ -1,8 +1,6 @@
 # Fast-Food_SQLDatabase
 “A case study involving databases, SQL coding, primary and foreign keys, related tables, and insights.”
 
-## Discovering the Fast Food Database
-
 A few months ago, I embarked on an exciting project: serving as the Data Analyst for the up-and-coming brand "Fast Food" in the fast-food sector. Despite their initial success in opening new branches, the company still grappled with managing scattered information across Google Sheets files and manual documents. My task was essential: to build a consolidated database that would ensure scalability and efficiency in decision-making.
 
 I began by collecting existing files and employed the Data Manipulation Language (DML) to formulate complex SQL queries. I optimized the database for analysis using external tools and utilized the Data Definition Language (DDL) to guarantee its future viability. In my day-to-day work, I faced practical challenges—from the initial design to troubleshooting with advanced SQL.
