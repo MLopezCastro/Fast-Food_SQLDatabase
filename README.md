@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- https://github.com/MLopezCastro/Fast-Food_SQLDatabase/blob/main/logo.png
+  <img src="https://github.com/MLopezCastro/Fast-Food_SQLDatabase/blob/main/logo.png
 </div>
 
 
