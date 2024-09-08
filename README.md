@@ -2,10 +2,6 @@
  <h1>Fast Food SQL Database</h1>
 </div>
 
-<div align="center">
-  <img src="https://github.com/MLopezCastro/Fast-Food_SQLDatabase/blob/main/logo.png
-</div>
-
 
 # Fast-Food_SQL Database
 “A case study involving databases, SQL coding, primary and foreign keys, related tables, and insights.”
