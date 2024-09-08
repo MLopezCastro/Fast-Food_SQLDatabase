@@ -1,4 +1,4 @@
-# Fast-Food_SQLDatabase
+# Fast-Food_SQL Database
 “A case study involving databases, SQL coding, primary and foreign keys, related tables, and insights.”
 
 A few months ago, I embarked on an exciting project: serving as the Data Analyst for the up-and-coming brand "Fast Food" in the fast-food sector. Despite their initial success in opening new branches, the company still grappled with managing scattered information across Google Sheets files and manual documents. My task was essential: to build a consolidated database that would ensure scalability and efficiency in decision-making.
