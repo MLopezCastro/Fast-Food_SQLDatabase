@@ -1,3 +1,12 @@
+<div align="center">
+ <h1>Fast Food SQL Database</h1>
+</div>
+
+<div align="center">
+  <img src="https://github.com/MLopezCastro/Master-Global-Super-Store/blob/main/logo.png?raw=true" alt="Master Global Super Store Logo" width="400">
+</div>
+
+
 # Fast-Food_SQL Database
 “A case study involving databases, SQL coding, primary and foreign keys, related tables, and insights.”
 
